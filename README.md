@@ -10,7 +10,9 @@ GTNH版本为：2.6.1
 务必保证电力供应和lp供应以及红石传输的可靠性  
 ## 获取方法
 ### 使用因特网卡下载   
-网址为:
+网址为:  
+https://github.com/Trasdapers/Trasd-s-OC-ocde-in-GTNH/blob/oc/robot.lua (机器人部分)  
+https://github.com/Trasdapers/Trasd-s-OC-ocde-in-GTNH/blob/oc/star.lua (OC电脑部分)
 ### 使用复制粘贴
 
 ## 用法
@@ -38,5 +40,20 @@ GTNH版本为：2.6.1
 ### 其他部分
 坠点控制（坠点应高于仪式点30格，硬度应为-1程度，可用神秘核心：守护右键方块/放置守卫者方块 达到该效果）  
 BC采矿场(总范围应包含坠点为中心 向外扩张25格的正方体范围，可拆分为8个采矿机范围进行，也可降低数量，但主要更改岩石清理时间）  
-采矿机部分(放置在正方体区域上方，不涉及坠点所在3*3区域即可，数量任意，采矿范围能涵盖整个陨石即可，但必须全部用适配器接触或用适配器+MFU连接)
+采矿机部分(放置在正方体区域上方，不涉及坠点所在3*3区域即可，数量任意，采矿范围能涵盖整个陨石即可，但必须全部用适配器接触或用适配器+MFU连接)  
+
+### 相关参考图片
+机器人  
+![image](https://github.com/Trasdapers/Trasd-s-OC-ocde-in-GTNH/blob/oc/picture/robot.png)  
+OC电脑  
+![image](https://github.com/Trasdapers/Trasd-s-OC-ocde-in-GTNH/blob/oc/picture/star.png)  
+采矿场以及BC建筑机  
+![image](https://github.com/Trasdapers/Trasd-s-OC-ocde-in-GTNH/blob/oc/picture/BC.png)  
+![image](https://github.com/Trasdapers/Trasd-s-OC-ocde-in-GTNH/blob/oc/picture/BC2.png)  
+![image](https://github.com/Trasdapers/Trasd-s-OC-ocde-in-GTNH/blob/oc/picture/BC4.png)  
+金质与门  
+![image](https://github.com/Trasdapers/Trasd-s-OC-ocde-in-GTNH/blob/oc/picture/BC3.png)  
+
+
+
 
