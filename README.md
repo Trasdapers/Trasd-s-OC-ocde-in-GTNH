@@ -1,4 +1,4 @@
-# Trasd-s-OC-ocde-in-GTNH
+![location](https://github.com/user-attachments/assets/ac0d8c9f-38f4-4abf-876d-fdbcbe84c320)# Trasd-s-OC-ocde-in-GTNH
 Some OC code written while playing
 There are OC files stored here, which are related to GTNH2.6.1.
 这里存储着一些GTNH整合包相关的OC自动化脚本
@@ -41,7 +41,7 @@ https://github.com/Trasdapers/Trasd-s-OC-ocde-in-GTNH/blob/oc/star.lua (OC电脑
 坠点控制（坠点应高于仪式点30格，硬度应为-1程度，可用神秘核心：守护右键方块/放置守卫者方块 达到该效果）  
 BC采矿场(总范围应包含坠点为中心 向外扩张25格的正方体范围，可拆分为8个采矿机范围进行，也可降低数量，但主要更改岩石清理时间）  
 采矿机部分(放置在正方体区域上方，不涉及坠点所在3*3区域即可，数量任意，采矿范围能涵盖整个陨石即可，但必须全部用适配器接触或用适配器+MFU连接)  
-
+注：需要在采矿机下方50-63格内放置卡位方块（硬度-1），及时将采矿管道卡住，不然会一直往下伸，或是因为采矿管道不够多而暂停运作，目前建议控制在下方50-63格，采石机范围之外的位置，这样采矿场里只用放一组采矿管道，不用外加。
 ### 相关参考图片
 机器人  
 ![image](https://github.com/Trasdapers/Trasd-s-OC-ocde-in-GTNH/blob/oc/picture/robot.png)  
