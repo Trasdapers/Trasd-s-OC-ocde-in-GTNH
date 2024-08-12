@@ -105,7 +105,7 @@ function main()
     State_gt(gt_machine)--机器活动状况检测--
     os.sleep(60)
     Wait_finish(gt_machine,wait_time2,redstone_occupy_side)  --采矿任务完成情况侦测--
-    Clearn(redstone_claern_side,clearn_time)  --岩石清理--
+    Clearn(redstone_claern_side,clearn_time,redstone_occupy_side)  --岩石清理--
   end
 end
 
