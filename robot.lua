@@ -78,7 +78,7 @@ function main(main_time)  --主程序--
   while true do
     Is_occupy(redstone_occupy_side,wait_time1)
     Find_item(location_item,find_time)
-    Active_ritual(ritual_time)
+    Active_ritual(ritual_time,throw_time)
     Throw_item(redstone_active_side,location_item,fall_time,active_time)
     os.sleep(main_time)
   end
